@@ -2,8 +2,8 @@ import telebot
 from telebot import types
 import requests
 
-TOKEN = '6618115945:AAHmv8AG2tsK2LXuKoS8_e40f1DKUzjfySg'
-NEWS_API_KEY = '16bbb30f2c1943c686c6dfaed9e593ff'
+TOKEN = ''
+NEWS_API_KEY = ''
 bot = telebot.TeleBot(TOKEN)
 
 news_cache = []

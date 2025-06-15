@@ -6,7 +6,7 @@ from langdetect import detect
 from gtts import gTTS
 
 # Токен бота
-token = '6618115945:AAFRlyS3uHgzsAiBzpvOn7BJWCI8jEhinDs'
+token = ''
 bot = telebot.TeleBot(token)
 
 # Хранилище состояний
